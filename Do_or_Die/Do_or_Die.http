@@ -1,0 +1,6 @@
+@Do_or_Die_HostAddress = http://localhost:5283
+
+GET {{Do_or_Die_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
